@@ -1,1 +1,1 @@
-Accept an integer between 1 and 3999 and convert it to its Roman numeral representation, or vice versa given a Roman numeral string.
+Accept an integer between 1 and 3999 and convert it to its Roman numeral representation.
